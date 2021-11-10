@@ -1,8 +1,6 @@
 #include <postgres.h>
 #include <fmgr.h>
 
-#include <utils/geo_decls.h>  /* Point */
-
 #include <point.h> /* SPoint from pgsphere */
 
 #include <math.h>
